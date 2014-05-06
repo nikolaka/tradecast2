@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,300italic,700italic,700,400italic' rel='stylesheet' type='text/css'>
-    <title>Tradecast -- About Us</title>
+    <title>Tradecast -- About Tradecast</title>
     <!-- Bootstrap -->
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
@@ -15,6 +15,7 @@
    <section class="container">
       <div class="content row">
         <section class="main col col-lg-12">
+          <?php include "_/components/php/header.php"; ?>
         
         </section> <!-- main -->
       </div> <!-- content -->
