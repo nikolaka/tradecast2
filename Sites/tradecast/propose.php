@@ -18,6 +18,7 @@
         
         </section> <!-- main -->
       </div> <!-- content -->
+      <?php include "_/components/php/footer.php"; ?>
    </section> <!-- container -->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="_/js/bootstrap.js"></script>
